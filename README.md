@@ -6,7 +6,7 @@
     <title>پروژه من در گیت‌هاب</title>
     <style>
         body {
-            font-family: 'B Nazanin', 'Times New Roman', serif;
+            font-family: 'B Nazanin', 'Time New Roman', serif;
             line-height: 1.6;
             margin: 2em;
             background-color: #f4f4f4;
