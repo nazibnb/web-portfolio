@@ -17,7 +17,7 @@
             max-width: 800px;
             margin: auto;
             background: #fff;
-            padding: 2em;
+            paing: 2em;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
