@@ -6,7 +6,7 @@
     <title>پروژه من در گیت‌هاب</title>
     <style>
         body {anin', 'Time New Roman', serif;
-            line-height: 1.6;
+            line-height: .6;
             margin: 2em;
             background-color: #f4f4f4;
             color: #333;
