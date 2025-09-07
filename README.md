@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, nitial-scale=1.0">
     <title>پروژه من در گیت‌هاب</title>
     <style>
-        body {anin', 'Time New Roman', serif;
+        body {anin', 'Time New Roman', erif;
             line-height: .6;
             margin: 2em;
             background-color: #f4f4f4;
