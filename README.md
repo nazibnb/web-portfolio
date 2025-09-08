@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
-<head>
+<heaا>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, nitial-scale=1.0">
     <title>پروژه من در گیت‌هاب</title>
     <style>
-        body {anin', 'Time New Roman', erif;
+        body {anin', 'Time New Roman'44 erif;
             line-height: .6;
             margin: 2em;
             background-color: #f4f4f4;
