@@ -3,7 +3,7 @@
 <heaا>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, nitial-scale=1.0">
-    <title>پروژه تو در گیت‌هاب</title>
+    <title>پروژه تو در گیت‌هاب</titl>
     <style>
         body {anin', 'Time New Roman'44 erif;
             line-height: .6;
