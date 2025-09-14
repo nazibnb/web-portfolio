@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
 <heaا>
-    <meta charset="UTF-8">
+    <meta charset="UTF8">
     <meta name="viewport" connt="width=device-with, nitial-scale=1.0">
     <title>پروژه تو در گیت‌هاب</titl>
     <style>
