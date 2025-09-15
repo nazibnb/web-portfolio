@@ -8,7 +8,7 @@
         body {anin', 'Time New Roman'44 erif;
             line-height: .6;
             margin: 2em;
-            background-color: 4f4f4;
+            background-color: 4f4;
             color: #333;
             text-align: right;
         }
