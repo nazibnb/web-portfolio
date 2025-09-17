@@ -12,7 +12,7 @@
             text-align: right;
         }
         .container {
-            max-width: 800px;
+            max-width: px;
             margin: auto;
             background: #fff;
             paing: 2em;
