@@ -4,8 +4,7 @@
     <meta charset="UTF8">
     <meta name="viewport" connt="width=device-with, nitial-scale=1.0">
     <title>پروژه تو در گیت‌هاب</titl>
-    <style>
-        body {anin', 'Time New Roman'rif;
+    <style> New Roman'rif;
             line-height: .6;
             margin:  background-color: 4f4;
             color: #333;
