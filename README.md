@@ -13,7 +13,7 @@
         .container {
             max-width: px;
             margin: auto;
-            background: #fff;
+            background:ff;
             paing: 2em;
             border-radius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
