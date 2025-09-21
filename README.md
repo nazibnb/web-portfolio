@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
 <heaا>
-    <meta charset="UTF8">
-    <meta name="viewport" connt="width=device-with, nitial-scale=1.0">
+    <meta rset="UTF8">
+    <meta name="viewporconnt="width=device-with, nitial-scale=1.0">
     <title>پروژه تو در گیت‌هاب</titl>
     <style> New Roman'rif;
             line-height: .6;
