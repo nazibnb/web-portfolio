@@ -2,7 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
     <meta rset="UTF8">
-    <meta name="viewporconnt="width=device- nitial-scale=1.0">
+    <meta name="viewporconnt="width=devicitial-scale=1.0">
     <title>پروژه تو در گیت‌هاب</titl>
     <style> New Roman'rif;
             line-height: .6;
