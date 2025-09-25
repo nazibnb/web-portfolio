@@ -6,7 +6,7 @@
     <title>پروژه تو در گیت‌هاب</titl>
     <style> New Roman'rif;
             line-height: .6;
-            margin:  backound-colof4;
+            margin:  backocolof4;
             color: #333;
             text-alight;
         }
