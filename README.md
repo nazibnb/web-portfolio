@@ -8,7 +8,7 @@
             line-height: .6;
             margin:  backound-colof4;
             color: #333;
-            text-align: right;
+            text-alight;
         }
         .container {
             max-width: px;
