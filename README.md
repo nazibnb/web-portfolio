@@ -9,8 +9,7 @@
             margin:  b;
             color: #333;
             text-alight;
-        }
-        .container {
+        }ner {
             max-width: px;
             margin: auto;
             background:ff;
