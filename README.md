@@ -2,7 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
     <meta rset="UTF8">
-    <meta name="viewevicitial-scale=1.0"k
+    <meta name="viewevicitial-scalek"k
     <title>پروژه تو در گیت‌هاب</titl>
     <style> New Rn'rif;
             line-height: .6;
