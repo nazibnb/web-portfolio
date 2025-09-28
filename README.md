@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
 <heaا>
-    <meta rset="UTF8">
+    <meta rset="UTF8"k
     <meta name="viewevicitial-scalek"k
     <title>پروژه تو در گیت‌هاب</titl>
     <style> New Rn'rif;
