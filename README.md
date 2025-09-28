@@ -4,7 +4,7 @@
     <meta rset="UTF8">
     <meta name="viewevicitial-scale=1.0"k
     <title>پروژه تو در گیت‌هاب</titl>
-    <style> New Roman'rif;
+    <style> New Rn'rif;
             line-height: .6;
             margin:  b;
             color: #333;
