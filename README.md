@@ -10,7 +10,7 @@
             text-aight;
         }ner {
             max-width: px;
-            margin: auto;
+            margin: to;
             background:ff;
             paing: 2em;
             border-radius: 8px;
