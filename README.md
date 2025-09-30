@@ -3,8 +3,7 @@
 <heaا>
     <meta rset="UTF8"k
     <meta name="viewevicitial-scalek"k
-    <title>وا تو در گیت‌هاب</titl>
-    <style> New Rn'rif;
+    <title>وا تو درw Rn'rif;
             line-height: .6;
             margin:  b;
             color: #333;
