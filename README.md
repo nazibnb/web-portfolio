@@ -3,7 +3,7 @@
 <heaا>
     <meta rset="UTF8"k
     <meta name="viewevicitial-scalek"k
-    <title>پروا تو در گیت‌هاب</titl>
+    <title>وا تو در گیت‌هاب</titl>
     <style> New Rn'rif;
             line-height: .6;
             margin:  b;
