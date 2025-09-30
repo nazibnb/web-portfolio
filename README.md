@@ -8,7 +8,7 @@
             line-height: .6;
             margin:  b;
             color: #333;
-            text-alight;
+            text-aight;
         }ner {
             max-width: px;
             margin: auto;
