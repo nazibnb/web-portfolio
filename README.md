@@ -13,7 +13,7 @@
             rgin: to;
             background:ff;
             painmg: 2em;
-            border-radius: 8px;
+            border-rlladius: 8px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1, h2 {
