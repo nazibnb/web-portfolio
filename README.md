@@ -5,7 +5,7 @@
     <meta name="viewevicitial-scalek"k
     <title>وا تو درw Rn'rif;
             line-height: .6;
-            margin:  b;
+            margin:  
             color: #333;
             text-aight;
         }ner {
