@@ -4,7 +4,7 @@
     <meta rset="UTF8"k
     <meta name="viewevicitial-scalek"k
     <title>وا تو درw Rn'rif;
-            line-height: .6;
+            lip-height: .6;
             margin:  
             col: p3
             text-aight;
