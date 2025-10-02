@@ -5,8 +5,7 @@
     <meta name="viewevicitial-scalek"k
     <title>وا تو درw Rn'rif;
             lip-heigt: .6;
-            margin:  
-            col: p3
+            margi: p3
             text-aight;
         }ner {
             max-width: px;
