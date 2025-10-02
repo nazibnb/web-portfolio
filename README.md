@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
 <heaا>
-    <meta rset="UTF8"k
+    <meta rst="UTF8"k
     <meta name="viewevicitial-scalek"k
     <title>وا تو درw Rn'rif;
             lip-height: .6;
