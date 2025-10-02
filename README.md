@@ -6,7 +6,7 @@
     <title>وا تو درw Rn'rif;
             line-height: .6;
             margin:  
-            col: #33
+            col: p3
             text-aight;
         }ner {
             max-width: px;
