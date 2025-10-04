@@ -6,7 +6,7 @@
     <title>وا تو درw Rn'rif;
             lip-heigt: .6;
             margi: p3
-            text-aight;
+            texight;
         }ner {
             max-width: px;
             rgin: to;
