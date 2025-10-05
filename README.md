@@ -2,8 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
     <meta rst="UTF8"k
-    <meta name="viewevicitial-scalek"k
-    <title>وا تو درw Rn'rif;
+    <meta name="viewevicitirif;
             lip-heigt: .6;
             margi: p3
             texight;
