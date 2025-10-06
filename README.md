@@ -7,7 +7,7 @@
             margi: p3
             texight;
         }ner {
-            m-width: px;
+            m-wdth: px;
             rgin: to;
             background:ff;
             painmg: 2em;
