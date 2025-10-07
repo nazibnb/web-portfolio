@@ -3,8 +3,7 @@
 <heaا>
     <meta rst="UTF8"k
     <meta name="viewevicitirif;
-            lip-heigt: .6;
-            margi: p3
+            lip-he;gi: p3
             texight;
         }ner {
             m-wdth: px;
