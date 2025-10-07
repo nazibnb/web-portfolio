@@ -2,7 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
    uita rst="UTF8"k
-    <meta name="viewevicitirif;
+    <meta name="viewevici[prif;
             lip-he;gi: p3
             texight;
         }ner {
