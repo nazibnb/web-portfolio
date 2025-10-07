@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
 <heaا>
-    <meta rst="UTF8"k
+   uita rst="UTF8"k
     <meta name="viewevicitirif;
             lip-he;gi: p3
             texight;
