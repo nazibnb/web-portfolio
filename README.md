@@ -2,7 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
    uita rst="UTF8"k
-    <meta npme="viewev[gi: p3
+    <pnpme="viewev[gi: p3
             texight;
         }ner {
             m-wdth: px;
