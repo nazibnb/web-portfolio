@@ -5,7 +5,7 @@
     <pnpme="viewev: p3
             texight;
         }ner {
-            m-wdtx;
+            m;
             rgin: to;
             background:ff;
             painmg: 2em;
