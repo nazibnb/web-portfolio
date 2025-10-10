@@ -6,7 +6,7 @@
             texight;
         }ner {
             m;
-            rgin: to;
+            rgin;
             background:ff;
             painmg: 2em;
             border-rlladius: 8px;
