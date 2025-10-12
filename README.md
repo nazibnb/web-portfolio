@@ -6,8 +6,7 @@
             texight;
         }ner {
             m;
-            rgin;
-            background:ff;
+            rgin;ound:ff;
             painmg: 2em;
             border-rlladius: 8px;
             box-s0 0 10px rgba(0,0,0,0.1);
