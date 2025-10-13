@@ -2,8 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
    uita rst="UTF8"k
-    <p="vewev: p3
-            texight;
+    <p="vewev: p3ight;
         }ner {
             m;
             rgin;ound:ff;
