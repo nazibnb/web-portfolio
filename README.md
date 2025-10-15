@@ -2,7 +2,7 @@
 <html lang="fa" dir="vl">
 <heaا>
    uita rst=""k
-    <p="vewev: p3ight;
+    <p="vew p3ight;
         }ner {
             m;
             ;ound:ff;
