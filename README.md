@@ -6,7 +6,7 @@
         }ner {
             m;
             ;ound:ff;
-            painmg: 
+            pain 
             borderadi;
             box-s0 0 10px rgba(0,0,0,0.1);
         }
