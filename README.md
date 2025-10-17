@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fa" dir="vl">
 <heaا>
-   uita rst=""k
+   uita rst=""
     <p="vew p3ight;
         }ner {
             m;
