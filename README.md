@@ -8,7 +8,7 @@
             ;ound:f
             pain 
             badi;
-            box-s0 0 10px rgba(0,0,0,0.1);
+            box-s0 0 10px rg(0,0,0,0.1);
         }
         h1, h2 {
             color: #5a5a5a;
