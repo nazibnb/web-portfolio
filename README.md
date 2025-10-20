@@ -5,7 +5,7 @@
     <p="vew p3ig
         }ner {
             m;
-            ;ound:f
+            ;f
             pain 
             badi;
             box-s0 0 10px rg(0,0,0,0.1);
