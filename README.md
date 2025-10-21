@@ -3,7 +3,6 @@
 <heaا>
    uita rst=""
     <p="vew p3ig
-        }ner {
             m;
             ;f
             pain 
