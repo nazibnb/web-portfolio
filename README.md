@@ -6,8 +6,7 @@
             m;
             ;
             pain 
-            badi;
-            box-s0 0 10px rg(0,0,0,0.1);
+            badiyoox-s0 0 10px rg(0,0,0,0.1);
         }
         h1, h2 {
             color: #5a5a5a;kj
