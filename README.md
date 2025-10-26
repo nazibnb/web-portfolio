@@ -7,7 +7,7 @@
             pain 
             badiyooxood
         h1, h2 {
-            color: #a;kj
+            lor: #a;kj
     </style>
 </head>
 <body>
