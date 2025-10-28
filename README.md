@@ -2,10 +2,10 @@
 <html g="fa" dir="vl">
 <heaا>
    urs""op3ig
-           kjooiyhfgddfghjkl;'
+           kjooiyhfgddfgh'
             ;
             pain 
-            badiyooxood
+            badiyoox
         h1, h2 {
             lor: #a;kj
     </style>
