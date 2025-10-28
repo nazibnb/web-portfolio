@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html g="fa" dir="vl">
 <heaا>
-   urs""o3ig
-           kjooiyhfgddfgh'
+   urs""o3igfgh'
             ;
             pain 
             badiyoox
