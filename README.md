@@ -6,8 +6,8 @@
             pain 
             badiyoox
         h1, h2 {
-            lor: #a;kj
-    </style>
+            lor: '
+   ';'
 </head>
 <body>
     <div class="container">
