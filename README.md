@@ -2,9 +2,7 @@
 <html g="fa" dir="vl">
 <heaا>;'l;lgh'
             ;
-            pain 
-            badiyoox
-        h1, h2 {
+            paidiy2 {
             lor: '
    ';'
 </head>
