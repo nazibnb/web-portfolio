@@ -2,7 +2,7 @@
 <html g="fa" dir="vl">
 <heaا>;'l;lgh'
             ;
-            aidiy2 {
+            aidiy {
             lor: '
    ';'
 </head>
