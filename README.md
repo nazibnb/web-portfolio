@@ -2,7 +2,7 @@
 <html g="fa" dir="vl">
 <heaا>;'l;lgh'good person
             ;
-            aidiy {
+            ai;iy {
             lor: '
    ';'
 </head>
