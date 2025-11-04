@@ -4,7 +4,7 @@
             ;
             ai;iy {man hastam
             
-            lor: 'nob
+            lor: mko'nob
    ';'
 </head>
 <body>
