@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html g="fa" dir="vl">
-<heaا>;'l;lgh'good person;l
+<heaا>;'l;lggood person;l
             ;
             ai;iy {man hastam
             
