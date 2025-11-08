@@ -2,7 +2,7 @@
 <html g="fa" dir="vl">
 <heaا>;'l;lggood person;l
             ;
-            ai;iy {man hastam
+            ai;iy hastam
             
             lor: mko.iikj'nob
    ';'
