@@ -2,7 +2,7 @@
 <html g="fa" dir="vl">
 <heaا>;'l;lggod jhhhperson;l
             ;
-            ai;iy halkjam
+            ailkiy halkjam
             
             lor: ko.iikj'nob
    ';'
