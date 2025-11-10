@@ -4,7 +4,7 @@
             ;
             ai;iy halkjam
             
-            lor: mko.iikj'nob
+            lor: ko.iikj'nob
    ';'
 </head>
 <body>
