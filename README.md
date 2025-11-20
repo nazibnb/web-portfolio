@@ -4,7 +4,7 @@
 
             aikl;jhj;;p;l mazo fk
             
-            lor: ko.iikjlnob
+            lor: ko.iikjlob
    ';'
 </head>
 <body>
