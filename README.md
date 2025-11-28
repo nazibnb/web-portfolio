@@ -2,7 +2,7 @@
 <ht;;lg="fa" dir="vl">
 <heaا>p'l;lggodjhhpesonl
 
-            ai;j;oiyj;;mzo f
+            ai;j;iyj;;mzo f
             
             lor: ko.ikjlob
    ';'
