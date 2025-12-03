@@ -4,7 +4,7 @@
 
             ajyj;f
             
-            lor: ko.ikj;ob
+            lor: k.ikj;ob
    ';'
 </head>
 <body>
