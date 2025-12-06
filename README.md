@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <ht;;lg="fa" dir="vl">
-<heaا>p'l;odjhpesnl
+<heaا>p'l;odpesnl
 
             yj;
             
