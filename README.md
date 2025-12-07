@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<ht;;lg="fa" dir="vl">
+<ht;;lg="fa" di"vl">
 <heaا>p'l;odl
 
             y;
