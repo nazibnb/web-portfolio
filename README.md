@@ -3,7 +3,7 @@
 <heaا'l
 
          man dostet daram  
-            man nv hdkj ckb'd
+            man nv hdkj ckb'
             lor:ave
             
    ';'
