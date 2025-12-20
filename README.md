@@ -4,7 +4,7 @@
 
          man dostet daram  
             man nv hdkj ckb'
-            lor:ave
+            or:ave
             
    ';'
 </head>
