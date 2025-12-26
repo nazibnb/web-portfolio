@@ -3,7 +3,7 @@
 <heaا'l
 
          man dostetjh
-            man  h
+            mn  h
             or:ave
             
    ';'
