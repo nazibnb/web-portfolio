@@ -2,7 +2,7 @@
 <ht;;lg="fa">
 <heaا'l
 
-         man dostetjh a  
+         man dostetjh
             man nv h
             or:ave
             
