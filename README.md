@@ -4,7 +4,7 @@
 
          man dosteh
             mn 
-            or:ave
+            or:av
             
    ';'
 </head>
