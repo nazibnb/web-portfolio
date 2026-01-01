@@ -4,7 +4,7 @@
 
          man 
             mn 
-            or:a
+            or:
             
    ';'
 </head>
