@@ -3,7 +3,7 @@
 <heaا'l
 
          man 
-            n 
+            
             or
             
    ';'
