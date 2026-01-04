@@ -2,7 +2,7 @@
 <ht;;lg="fa">
 <heaا'l
 
-         man 
+         an 
             
             or
             
