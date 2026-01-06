@@ -5,7 +5,7 @@
          an 
             
             or
-            The casualy figures, viewed this way, become more significant. If they represent genuine force degradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the ability to mount meaningful resistance, which simplifies Saudi Arabia's holding problem considerably
+            The casualy figures, viewed this way, become more significant. If they represent genuine force deradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the ability to mount meaningful resistance, which simplifies Saudi Arabia's holding problem considerably
    ';'
 </head>
 <body>
