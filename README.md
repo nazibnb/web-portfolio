@@ -2,7 +2,7 @@
 <ht;;lg="fa">
 <heaا'l
 
-         an 
+        
             
             
             The casualy figures, viewed this way, become more significant.  they represent genuine force deradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the ability to mount meaningful resistance, which simplifies Saudi Arabia's holding problem considerably
