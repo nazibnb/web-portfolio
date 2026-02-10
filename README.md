@@ -5,7 +5,7 @@
         
             
             
-            The caly figures, viewed ths way, become more significant.  they represent genuine force deradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplifiesdi Arabia's holding problem considerably
+            The caly figurewed ths way, become more significant.  they represent genuine force deradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplifiesdi Arabia's holding problem considerably
    ';'
 </head>
 <body>
