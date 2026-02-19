@@ -4,7 +4,7 @@
         
             
             
-            T caly figure ths waybecome more significt.  theepresent nuine force deradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplifiesdi Arabia's holding em considerably
+            T caly figure ths wbecome more significt.  theepresent nuine force deradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplifiesdi Arabia's holding em considerably
    ';'
 </head>
 <body>
