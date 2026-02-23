@@ -4,7 +4,7 @@
         
             
             
-            T caly figure ths wbecome more si  theepresent nufoeradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplii Arabia's holdin considerably
+            T caly figure ths wbecome more si  theepreoeradation—not just a setback—then "counterattack capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplii Arabia's holdin considerably
    ';'
 </head>
 <body>
