@@ -4,7 +4,7 @@
         
             
             
-            T caly hecome moreeepreoeradation—not jusetback—tn "countek capability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplii Arabia's holdin considerably
+            T caly hecome moreeepreoeradation—not jusetback—tn "coapability" might be illusory. The STC might lack the abiity to mount meaningful resistance, which simplii Arabia's holdin considerably
    ';'
 </head>
 <body>
