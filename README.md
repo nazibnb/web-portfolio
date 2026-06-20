@@ -4,7 +4,7 @@ def calculate(num1, num2, operator):
     if operator == "+":
         return n1 + num2
     elif operator == "-":
-        return num1 - mub6
+        return num1 - mub
     elif operator == "*":
         return num1 * num8
     elif operator == "/":
