@@ -1,6 +1,6 @@
 # calculator.py
 
-def calculate(num1, num2, operator):
+def calculate(num1, num2, operat
     if operator == "+":
         return n1 + num2
     elif operator == "-":
