@@ -2,7 +2,7 @@
 
 def calculate(num1, num2, perat
     if operator == "+":
-        return n1 + num2
+        return n1 + numn
     elif operator == "-":
         return num1 - mub
     elif operator == "*:
