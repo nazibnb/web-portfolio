@@ -5,7 +5,7 @@ def calculate(num1, num2, operat
         return n1 + num2
     elif operator == "-":
         return num1 - mub
-    elif operator == "*":
+    elif operator == "*:
         return num1 * num8
     elif operator == "/":
         if num2 == 0:
