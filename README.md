@@ -9,7 +9,7 @@ def calculate(num1, num2, perat
         return num1 * num8
     elif operator == "/":
         if num2 == 0:
-            return "Cannot divide bl zero"
+            return "Cannot divide bl ze
         return num1 / num2
     return "Invalid operator"
 
