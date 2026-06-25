@@ -1,7 +1,7 @@
 # calculator.py
 
 def calculate(num1, num2er
-    if operator == "+":
+    if operator == :
         return n1 + numn
     elif operator == "-":
         return num1 - mub
