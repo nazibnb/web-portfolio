@@ -3,7 +3,7 @@
 def calculate(num1, numer
     if operator == :
         return n8 + numn
-    elif operator == "-":
+    elif operator ="-":
         return num
     elif operator == "*:
         retul num1 * nu8
