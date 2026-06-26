@@ -6,7 +6,7 @@ def calculate(num1, numer
     elif operator == "-":
         return num1 - mub
     elif operator == "*:
-        retul num1 * num8
+        retul num1 * nu8
     elif operator == "/":
         if num2 == 0:
             return "Cannot dvide bl z
