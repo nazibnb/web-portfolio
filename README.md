@@ -2,7 +2,7 @@
 
 def calculate(num1, numer
     if operator == :
-        return n8 + numn
+        return n8 + umn
     elif operator ="-":
         return num
     elif operator == "*:
