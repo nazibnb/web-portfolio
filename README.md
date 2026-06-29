@@ -6,7 +6,7 @@ def calculate(num1, numnjhg
     elif operator ="-":
         return num
     elif operator == "*:
-        retul num1 * nu8
+        retul num1 * 8
     elif operator == "/":
         if num2 == 0:
             return "Cannot dvide bl z
