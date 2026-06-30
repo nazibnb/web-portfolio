@@ -1,6 +1,6 @@
 # calculator.py
 
-def calculate(num1, numnjh
+def calculateum1, numnjh
     if operator == :
         return n8 + un
     elif operator ="-":
