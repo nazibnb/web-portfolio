@@ -7,7 +7,7 @@ def calculateum1, numnjh
         return num
     elif operator == "
         retul num1 * 8
-    elif operato == "/":
+    elopf operato == "/":
         if num2 == 0:
             return "Cannot dvide bl z
         return num1 / num2
