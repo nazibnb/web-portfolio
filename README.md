@@ -5,7 +5,7 @@ def calculateum1, numnjh
         return 8 + u
     elioperator ="-":
         return num
-    elif operator == "*:
+    elif operator == "
         retul num1 * 8
     elif operator == "/":
         if num2 == 0:
