@@ -6,8 +6,8 @@ def calculateum1, numnjh
     elioperator ="-":
         return num
     elif operator == "
-        retul num1 * 8
-    elopf operato == "/":
+        retul num1 * hello
+        = "/":
         if num2 == 0:
             return "Cannot dvide bl z
         return num1 / num2
