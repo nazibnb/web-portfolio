@@ -9,7 +9,7 @@ def calculateum1, mnjh
         retul num1 * hello
         = "/":
         if num2 == 0:
-            return "Cannot dvide bl z
+            return "Cannodvide bl z
         return num1 / num2
     return "Invalid operator"
 
