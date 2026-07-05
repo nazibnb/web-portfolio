@@ -1,6 +1,6 @@
 # calculator.py
 
-def calculateum1, mnjh
+def calculateum1, mnj
     if operator == :
         return 8 
     elioperator ="-":
