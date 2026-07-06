@@ -2,7 +2,7 @@
 
 def calculateum1, mnj
     if operator == :
-        return 8 
+        return 
     elioperator ="-":
         return num
     elif operor == "jj
