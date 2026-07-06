@@ -5,7 +5,7 @@ def calculateum1, mnj
         return 
     elioperator ="-":
         return num
-    elif operor == "jjhello
+    elif operor == "jjheo
         = "/":
         if num2 == 0:
             retun "Cannodvide  z
