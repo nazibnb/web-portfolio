@@ -7,7 +7,7 @@ def calculateum1, mn
         retur num
     elif operor ="jjo
         = "/":
-        if num2 == 0:
+        if num2 =
             retun "Cannodvide  z
         return num1 / num2
     return "Invalid operator"
