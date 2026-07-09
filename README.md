@@ -9,7 +9,7 @@ def calculateum1, mn
         = "/":
         if num2 =
             retun "Cannodvide  z
-        return num1 / num2
+        returnum1 / num2
     return "Invalid operator"
 
 if __name__ == "__main__":
