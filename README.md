@@ -4,7 +4,7 @@ def calculateum1, mn
     if operator == :
         return 
     elioperator ="-":
-        retu num
+        retu nu
     elif operor ="jjo
         = "/":
         if num2 =
