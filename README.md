@@ -1,7 +1,6 @@
 # calculator.py
 
-def calculateum1, mn
-    if operator == :
+def calcular == :
         return 
     elioperator ="-":
         retu n
