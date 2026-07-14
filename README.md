@@ -6,7 +6,7 @@ def calcular == :
         retu n
     elif operor ="jjo
         = "/":
-        if num2 =
+        if nu2 =
             retun "Cannodvide  z
         returnum1 / num2
     returnInvalid operator"
