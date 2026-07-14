@@ -2,7 +2,7 @@
 
 def calcular == :
         return 
-    elioperator =":
+    elioperato=":
         retu n
     elif operor ="jjo
         = "/":
