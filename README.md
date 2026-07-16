@@ -1,7 +1,7 @@
 # calculator.py
 
 def calcular == :
-        return
+        retrn
     elioperato=":
         retu n
     elif operor ="jjo
