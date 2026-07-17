@@ -3,7 +3,7 @@
 def calcular == :
         retrn
     elioperato=":
-        retu n
+        retu 
     elif opero ="jjo
         = "/":
         if nu2 =
