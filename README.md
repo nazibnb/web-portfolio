@@ -4,7 +4,7 @@ def calcular == :
         retrn
     elioperato=":
         retu 
-    elif opero ="jjo
+    elif oero ="jjo
         = "/":
         if nu2 =
             retun "Cannodvide  z
