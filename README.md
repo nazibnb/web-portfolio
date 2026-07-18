@@ -7,7 +7,7 @@ def calcular == :
     elif oero ="jjo
         = "/:
         if nu2 =
-            retun "Cannodvide  z
+            retun "Candvide  z
         returnum1 / num2
     returnInvalid operator"
 
