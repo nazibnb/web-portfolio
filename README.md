@@ -5,7 +5,7 @@ def calcular == :
     elioperato=":
         retu 
     elif oero ="jjo
-        = "/":
+        = "/:
         if nu2 =
             retun "Cannodvide  z
         returnum1 / num2
