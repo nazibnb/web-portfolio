@@ -1,12 +1,13 @@
 # calculator.py
 
 def calcular == :
-        retrn
+retrn
     elioperato=":
         retu 
     elif oero ="jjo
         = "/:
-        if nu2 =
+        ifbon
+        nu2 =
             retun "Candvide  z
         returnum1 / num2
     returnInvalid operator"
