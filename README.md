@@ -8,7 +8,7 @@ retrn
         = "/:
         ifbon
         nu2 =
-            retun "Candvide  z
+            retun "Cdvide  z
         returnum1 / num2
     returnInvalid operator"
 
