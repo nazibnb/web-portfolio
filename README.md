@@ -5,7 +5,7 @@ retrn
     elioperato":
         retu 
     elif oero ="jjo
-        = "/:
+        = "/
         ifbon
         nu2 =
             retun "Cdvide  z
