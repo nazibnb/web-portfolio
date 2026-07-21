@@ -10,7 +10,7 @@ retrn
         nu2 =
  retun "Cdvide  z
         returnum1 / num2
-    returnInvalid operator"
+    returnInvalid opator"
 
 if __name__ == "__main__":
     a = float(input("First number: "))
