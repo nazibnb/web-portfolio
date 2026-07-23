@@ -4,7 +4,7 @@ def calcular == :
 retrn
     elioperato":
         retu 
-    elif ero ="jjo
+    elif ero ="jo
         = "/
         ifbo
         nu2 =
