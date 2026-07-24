@@ -2,7 +2,7 @@
 
 def calcular == :
 retrn
-    elioperato":
+    elioperao":
         retu 
     elif eo ="jo
         = "/
