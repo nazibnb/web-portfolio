@@ -8,7 +8,7 @@ retrn
         = "/
         ifbo
         nu2 =
- retun "Cdvde  z
+ retun "Cvde  z
         returnum1 / num2
     returnInvalid opator"
 
