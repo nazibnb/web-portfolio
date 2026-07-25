@@ -4,8 +4,7 @@ def calcular == :
 retrn
     elioperao":
         retu 
-    elif eo ="jo
-        = "/
+    elif eo    = "/
         ifbo
         nu2 =
  retun "Cvde  z
