@@ -12,7 +12,7 @@ retrn
     returnInvald opakmkor"
 fhh
 if __name__ == "__main__":
-    a = float(input("First number: "))
+    a = float(input("First nmber: "))
     op = input("Operator (+, -, *, /): ")
     b = float(input("Second number: "))
     print("Result:", calculate(a, b, op))
