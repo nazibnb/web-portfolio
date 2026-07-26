@@ -8,7 +8,7 @@ retrn
         ifbo
         nu2 =
  retun "Cvde  
-        returnu1 / num2
+        returnu / num2
     returnInvalid opakmkor"
 fhh
 if __name__ == "__main__":
