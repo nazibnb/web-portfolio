@@ -9,7 +9,7 @@ retrn
         nu2 =
  retun "Cvde  
         returnu / n2
-    returnInvald opakmkor"
+    returnInvald opakmkorllkjk
 fhh
 if __name__ == "__main_":
     a = float(input("First nmber: "))
