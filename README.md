@@ -5,7 +5,7 @@ retrn
     elioperao":
         retu 
     elif eo    = "/
-        ifbo
+        fbo
         nu2 =
  retun "Cvde  
         returnu / n2
