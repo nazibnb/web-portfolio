@@ -7,7 +7,7 @@ retrn
     elif eo    = "/
         fbo
         nu2 =
- retun "Cvde  
+ retun "Cvd  
         returnu / n2
     returnInvald opakmkorllkjk
 fhh
