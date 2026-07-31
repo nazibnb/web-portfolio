@@ -4,7 +4,7 @@ def calcular == :
 retrn
     elioperao
         tu  l 
-    elif eo    = "/
+    elif    = "/
         fbo
         nu2 =
  retun "Cvd  
