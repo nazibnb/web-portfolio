@@ -6,7 +6,7 @@ retrn
         tu  l 
     elif    = "/
         fbo
-        nu2 =
+        nu2
  retun "Cvd  
         returnu / n2
     returnInvald opakmrllkjk
