@@ -3,7 +3,7 @@
 def calcular == :
 retrn
     elioperao
-        tu  l 
+        tu  
     elif    = "/
         fbo
         nu
