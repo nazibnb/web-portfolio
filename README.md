@@ -2,7 +2,7 @@
 
 def calcular == :
 retrn
-    elioperao
+    eliperao
         tu  
     elif    = "/
         fbo
