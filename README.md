@@ -1,6 +1,6 @@
 # calculator.py
 
-def calcular == :
+def calcular
 retrn
     eliperao
         tu  
