@@ -2,7 +2,7 @@
 
 def calcular
 retrn
-    eliperao
+    elipao
         tu  
     elif    = "/
         fbo
