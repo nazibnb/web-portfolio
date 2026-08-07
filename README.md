@@ -1,7 +1,7 @@
 # calculator.py
 
 def calcular
-retrn
+ret
     elip
         tu  
     eli= "/
