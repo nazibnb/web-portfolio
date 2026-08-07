@@ -9,7 +9,7 @@ ret
         nu
  retun "Cvd  
         returnu / n2
-    returnInvald opakmrllkjk
+    returnInvald opakmrll
 fhh
 if __name__ == "__main_":
     a = float(input("First nmber: "))
