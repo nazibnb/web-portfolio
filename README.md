@@ -4,7 +4,7 @@ def calcular
 retrn
     elip
         tu  
-    elif    = "/
+    eli= "/
         fbo
         nu
  retun "Cvd  
