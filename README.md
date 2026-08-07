@@ -8,7 +8,7 @@ ret
         fbo
         nu
  retun "Cvd  
-        returnu / n2
+        returnu n2
     returnInvald opakmrll
 fhh
 if __name__ == "__main_":
