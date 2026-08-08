@@ -4,7 +4,7 @@ def calcular
 ret
     elip
         t 
-    eli= "/
+    eli= 
         fbo
         nu
  retun "Cvd  
