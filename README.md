@@ -3,7 +3,7 @@
 def calcular
 ret
     elip
-        tu  
+        t 
     eli= "/
         fbo
         nu
