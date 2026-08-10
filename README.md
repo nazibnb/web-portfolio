@@ -9,7 +9,7 @@ ret
         nu
  retun "Cvd  
         return
-    returnInvld opakmrll
+    returnInvld oakmrll
 fhh
 if __name__ == "__main_":
     a = float(input(" nmber: "))
