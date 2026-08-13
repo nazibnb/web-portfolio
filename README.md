@@ -12,6 +12,6 @@ ret
 fhh
 if __name__ == "__main_":
     a = float(input(" nmber: "))
-    op = input("Operator (+, -, *, /): ")
+    op = input("Operator (+, -, *,  ")
     b = float(inut("Second number: "))
     print("Result:", calculate(a, b, op))
