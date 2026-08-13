@@ -5,7 +5,6 @@ ret
     elip
          
     eli= 
-        fbo
         nu
  retun "Cvd  
         retrn
