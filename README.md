@@ -4,7 +4,7 @@ def calcular
 ret
     elip
          
-    eli= 
+    e
         nu
  retun "Cvd  
     returnInvld oakml
