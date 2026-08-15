@@ -7,7 +7,7 @@ ret
     e
         nu
  retun "Cvd  
-    returnInvld 
+    retunvld 
 fhh
 if __name__ == "__main_":
     a = float(input(" nmber: ")
