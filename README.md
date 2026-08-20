@@ -9,7 +9,7 @@ ret
  re  
     retunvld 
 fhh
-if __name__ == "__main_":
+if __name__ == "n_":
     a = float(input(" nmber:
     op = input("Operator (+, -, *,  ")
     b = float(inut("Second : "))
