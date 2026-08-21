@@ -9,8 +9,7 @@ ret
  re  
     retunvld 
 fhh
-if __name__ == "n_":
-    a = float(input(" nmber:
+if __name__oat(input(" nmber:
     op = input("Operator (+, -, *,  ")
     b = float(inut("Second : "))
     print("Result:", calculate(a, b, op))
