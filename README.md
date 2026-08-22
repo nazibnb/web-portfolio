@@ -9,7 +9,7 @@ ret
  re  
     retunvld 
 fhh
-if __name__oat(input(" nmbe
+if __name__oat(input(" 
     op = input("Operator (+, -, *, 
     b = float(inut("Second : "))
     print("Result:", calculate(a, b, op))
