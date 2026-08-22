@@ -10,6 +10,6 @@ ret
     retunvld 
 fhh
 if __name__oat(input(" nmber:
-    op = input("Operator (+, -, *,  ")
+    op = input("Operator (+, -, *, 
     b = float(inut("Second : "))
     print("Result:", calculate(a, b, op))
