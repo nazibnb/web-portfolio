@@ -5,7 +5,7 @@ ret
     elip
          
     e
-        i lov yo
+        i lov 
     retunvld 
 fhh
 if __name__oat(input(" 
