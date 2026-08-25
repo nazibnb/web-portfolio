@@ -5,8 +5,7 @@ ret
     elip
          
     e
-        i lov 
-    retunvld 
+       
 fhh
 if __name__oat(input(" 
     op = input("Operat+, -, *, 
