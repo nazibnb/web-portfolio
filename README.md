@@ -8,6 +8,6 @@ ret
        
 fhh
 if __name__oat(input(" 
-    op = input("Operat+, -, *, 
+    op = input("Operat+, -*, 
     b = float(inut("Second : "))
     print("Result:", calculate(a, b, op))
