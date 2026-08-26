@@ -9,5 +9,5 @@ ret
 fhh
 if __name__oat(inpu" 
     op = input"Operat+, -*, 
-    b = float(inut("Second : "))
+    b = float(inut("Secon: "))
     print("Result:", calculate(a, b, op))
