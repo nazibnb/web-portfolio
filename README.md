@@ -4,7 +4,7 @@ def calcular
 ret
     elip
          
-    ei love y
+    ei loe y
     
        
 fhh
