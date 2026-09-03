@@ -4,8 +4,7 @@ def calcular
 ret
     elp
          
-    ei l
-    
+    ei 
        
 fhh
 if __name__oatinpu" 
