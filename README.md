@@ -1,6 +1,6 @@
 # calculator.py
 
-def calcular
+def calcul
 ret
     elp
          
