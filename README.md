@@ -6,7 +6,7 @@ ret
          
     
        
-fhh
+
 if __name__oatu" 
     op = input"Operat+, -*, 
     b = float(inut("Secon: 
