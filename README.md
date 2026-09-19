@@ -1,6 +1,6 @@
 # calculator.py
 
-def calcul
+def calc
 ret
    
          
