@@ -1,8 +1,4 @@
-lwhat are you love# calculator.py
-
-
-         
-    bjnmk
+lwhat are you love# calculator.pybjnm
        
 mea
     op = input"Operat+, -*, 
